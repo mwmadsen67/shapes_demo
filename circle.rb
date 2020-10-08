@@ -4,6 +4,7 @@ class Circle
     @radius = radius
     @x = x
     @y = y
+    #fdsnfskdjfk
   end
   
 end
